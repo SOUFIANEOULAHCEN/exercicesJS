@@ -80,7 +80,6 @@ const newInscription = {
 };
 
 
-
 // creer pure Fonction
 
 let FonctionPure = (newInscription , inscription)=>{
